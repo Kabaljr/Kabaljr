@@ -22,13 +22,13 @@
 
 <h1 align="center">Redes Sociais</h1>
   <div align="center">
-    <a href = "https://www.facebook.com/RobertoPauloJr">
+    <a href = "https://www.facebook.com/RobertoPauloJr" target="_blank">
       <img width="50" src="facebook.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/robertopaulojr/">
+    <a href = "https://www.linkedin.com/in/robertopaulojr/" target="_blank">
       <img width="50" src="linkedin.svg">
     </a>
-    <a href = "https://www.instagram.com/roberto_paulojr/">
+    <a href = "https://www.instagram.com/roberto_paulojr/" target="_blank">
       <img width="50" src="instagram.svg" style="margin-right: 40">
     </a>
   </div>
