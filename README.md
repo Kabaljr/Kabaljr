@@ -18,7 +18,7 @@
     <img align="center" height="30" width="50" alt="css-icon" src="css3.svg">
     <img align="center" height="30" width="50" alt="Mysql-icon" src="mysql.svg">
     <img align="center" height="30" width="50" alt="php-icon" src="php.svg">
-    <img align="center" height="30" width="50" alt="python-icon" src="python.svg">
+    <img align="center" height="30" width="50" alt="C++-icon" src="c++.png">
    </div>
  </div>
 
