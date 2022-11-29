@@ -3,8 +3,12 @@
 <div>
   
   <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=Kabaljr&show_icons=true&theme=transparent_all_commits=true&count_private=true"/>
-  <img align="right" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabaljr&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img align="right" height="250" src="https://blog.dankicode.com/wp-content/uploads/2018/08/Qual-a-Linguagem-de-Programa%C3%A7%C3%A3o-mais-usada-no-mercado.png"/>
 </div>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <div  align="center"> 
